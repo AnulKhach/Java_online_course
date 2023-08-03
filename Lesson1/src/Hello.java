@@ -5,6 +5,7 @@ public class Hello {
 
         byte x = 124;
         System.out.println(x);
+        System.out.println(x);
 
         short y = 26526;
         System.out.println(y);
